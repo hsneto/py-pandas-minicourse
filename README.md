@@ -12,9 +12,12 @@
     * Padronização de dados
     * Normalização de dados
     * Binning
-3. Análise dos dados
-4. Preparando os dados
-5. Visualização dos dados
+3. Padronização de dados
+4. Normalização de dados
+5. Binning
+6. Correlação
+7. Preparando os dados
+8. Visualização dos dados
     * Gráficos de Linha
     * Gráficos de Área 
     * Histogramas 
@@ -23,7 +26,7 @@
     * Diagrama de Caixa 
     * Gráfico de Dispersão 
 
-6. Extras
+9. Extras
    * Waffle Charts
    * Word Clouds
  
