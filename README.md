@@ -60,3 +60,15 @@
 
 ### Word Clouds
 ![wxl-example](docs/word-clouds.png)
+
+## Autor:
+
+* Humberto da Silva Neto
+
+## Licença:
+
+* [MIT LICENSE](LICENSE)
+
+## Agradecimentos
+
+* [COGNITIVE CLASS](https://cognitiveclass.ai/)
