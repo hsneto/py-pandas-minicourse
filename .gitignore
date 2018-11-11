@@ -1,0 +1,8 @@
+# jupyter
+.ipynb_checkpoints
+
+# vscode
+.vscode
+
+# solutions :)
+/notebooks/solutions/
